@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey there!
 
-<!--
-**mbcrocci/mbcrocci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Maurizio](https://mbcrocci-dev.vercel.app), a software engineer based in Portugal.
 
-Here are some ideas to get you started:
+I build things for the web, mostly in Typescript and Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is on unlocking my team's productivity and improving the quality of our code.
+
+I've got a bunch of pinned projects, but my favorites are [pika](https://github.com/mbcrocci/pika) and [pika-ts](https://github.com/mbcrocci/pika-ts).
+
+Fun Facts:
+- I have two cats 🐱
+- I'm way into coffee
+- Hobbies: mountain biking, skating
